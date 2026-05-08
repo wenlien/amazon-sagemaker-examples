@@ -1,4 +1,4 @@
-sagemaker>=2.199.0,<3
+sagemaker>=3.10.1,<4
 pandas>=2.0.0
 numpy
 imageio
